@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Hidden Berkeley
+title: Berkeley Essentials
 ---
 
-# Hidden Berkeley
+# Berkeley Essentials
 
-A starting guide to Berkeley places and services. Check each resource's official webpage for current access details.
+A starting guide for new Berkeley students, featuring useful campus places and services. Check each official link for current access details before you visit.
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
 {% for resource in site.data.locations %}
